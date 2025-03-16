@@ -1,10 +1,6 @@
-# Headwind MDM - a platform for corporate Android applications
+# Kant MDM
 
-Headwind MDM is a Mobile Device Management platform for Android devices, designed for corporate app developers and IT managers.
-
-(c) 2020 h-mdm.com
-
-[https://h-mdm.com](https://h-mdm.com)
+A customized fork of Headwind MDM.
 
 ## Features
 
@@ -18,18 +14,6 @@ Headwind MDM is a Mobile Device Management platform for Android devices, designe
  - Extensible platform design allowing the custom plugin development
  - Collection of application logs in the web panel
  - Centralized configuration of corporate applications
-
-The *Enterprise edition* of the platform has more features:
-
- - Restriction of mobile user functions ("kid's shell" for corporate users)
- - Disable to change the mobile device settings
- - Kiosk mode (COSU, single-task mode)
- - Sending images from mobile device to server
- - Cloud-based or self-hosted server setup
- - Premium support of enterprise users
- - Custom plugin development services
-
-The enterprise edition may be ordered on the [project website](https://h-mdm.com).
 
 ## Quick start
 
